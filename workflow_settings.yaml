@@ -3,3 +3,5 @@ defaultLocation: EU
 defaultDataset: amorim
 defaultAssertionDataset: amorim_assertions
 dataformCoreVersion: 3.0.0-beta.4
+vars:
+    environmentName: "development"
